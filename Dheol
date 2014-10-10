@@ -1,0 +1,58 @@
+Dheol, Scrollpiercer
+LN Human
+
+Str  9 (-1)
+Con 14 (+2)
+Dex 11 (+0)
+Int 20 (+5)
+Wis  8 (-1)
+Cha 10 (+0)
+
+HD    
+HP    
+AC    
+Fort  
+Ref   
+Will  
+
+BAB 
+MAB 
+RAB 
+CMB 
+CMD 
+
+Traits
+  Oblivious
+    -2 penalty to Sense Motive and sight-based Perception checks
+  Etymologist
+    +1 bonus to Linguistics
+    1 bonus language
+    Linguistics is always a class skill
+  Heiroglyphic Cipherist
+    +1 bonus to Linguistics
+    +2 to saves vs Glyph/Sigil based effects
+  Avid Reader
+    Preparing spells and extracts takes half the normal amount of time
+    
+Skills
+  Linguistics   +2 | +2 Trait
+  Sense Motive  -2 | -2 Trait
+  Perception    +0 |
+    -2 on sight-based
+    
+Languages
+  Human
+  Elven
+  Dwarf
+  Terran
+  Aquan
+  Auran
+  Ignan
+
+Special
+  Racial
+    Focused Study
+      Gain a bonus Skill Focus feat at 1, 8 and 16
+    Heart of the Fields
+      Racial bonus equal to half character level to Profession (Scribe)
+      Once per day, can ignore one Exhaust or Fatigue

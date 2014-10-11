@@ -1,26 +1,26 @@
 Dheol, Scrollpiercer
 LN Human
-Wizard 5
+Wizard (Counterspell Abjurer, Scrollmaster) 6
 
 Str  9 (-1)
 Con 14 (+2)
 Dex 11 (+0)
-Int 20 (+5)
+Int 21 (+5)
 Wis  8 (-1)
 Cha 10 (+0)
 
-HD    5d6
-HP    34
+HD    6d6
+HP    46 (6 favored class levels)
 AC    10
-Fort  +3
-Ref   +1
-Will  +3
+Fort  +4
+Ref   +2
+Will  +4
 
-BAB   +2
-MAB   +1
-RAB   +2
-CMB   +1
-CMD   +2
+BAB   +3
+MAB   +2
+RAB   +3
+CMB   +2
+CMD   +3
 
 Traits
   Oblivious
@@ -36,16 +36,47 @@ Traits
     Preparing spells and extracts takes half the normal amount of time
     
 Skills
-  Linguistics           +12 | 5 Ranks + 5 Int + 2 Trait
-  Craft (Calligraphy)   +10 | 5 Ranks + 5 Int 
-  Knowledge (Religion)  +10 | 5 Ranks + 5 Int 
-  Knowledge (Arcana)    +10 | 5 Ranks + 5 Int 
-  Knowledge (History)   +10 | 5 Ranks + 5 Int 
-  Knowledge (Planes)    +10 | 5 Ranks + 5 Int 
-  Spellcraft            +10 | 5 Ranks + 5 Int 
+  Linguistics           +13 | 6 Ranks + 5 Int + 2 Trait
+  Craft (Calligraphy)   +11 | 6 Ranks + 5 Int 
+  Knowledge (Religion)  +11 | 6 Ranks + 5 Int 
+  Knowledge (Arcana)    +11 | 6 Ranks + 5 Int 
+  Knowledge (History)   +11 | 6 Ranks + 5 Int 
+  Knowledge (Planes)    +11 | 6 Ranks + 5 Int 
+  Spellcraft            +11 | 6 Ranks + 5 Int 
   Sense Motive          -3  | 0 Ranks - 2 Trait - 1 Wis
   Perception            -1  | 0 Ranks - 1 Wis
     -2 on sight-based
+  
+Feats
+  Scribe Scroll
+    Can create scrolls of any known spell
+    2 hours if spell is >250gp, 1 day/1000gp otherwise
+    Costs half of market price
+  Cypher Magic
+    +1 to Caster Level when casting from Scrolls
+    +2 to Caster Level checks for activating spells of higher level
+  Improved Counterspell
+    Can counterspell with a spell from the same school
+    Must be at least one level higher
+  Scroll Mastery
+    +4 Caster Level and Use Magic Device for Scrolls
+    +4 Spellcraft to scribe from scrolls
+  Scroll Slinger
+    Retrieved stored scroll as a Swift action with no AOO
+    +2 Use Magic Device to decipher or use a scroll
+    +2 Caster Level to cast higher level spells
+    +2 Concentration when casting from scrolls
+  Thrifty Scrollcrafter
+    Reduce price of scroll scribing by 50%
+  Arcane Builder
+    Reduce price of scroll scribing by 25% 
+    +4 to Spellcraft to scribe a scroll
+  
+Spells/day
+  0:  4
+  1:  5 + 1 School
+  2:  4 + 1 School
+  3:  3 + 1 School
   
 Languages
   Human
@@ -55,6 +86,12 @@ Languages
   Aquan
   Auran
   Ignan
+  Abyssal
+  Celestial
+  Infernal
+  Draconic
+  Undercommon
+  Giant
 
 Special
   Racial
@@ -63,3 +100,23 @@ Special
     Heart of the Fields
       Racial bonus equal to half character level to Profession (Scribe)
       Once per day, can ignore one Exhaust or Fatigue
+  Class
+    Abjurer
+      Restricted Necromancy and Illusion
+      Resistance
+        Choose 1 Energy type when preparing spells
+        Gain Resistance 5/Resistance 10/Immunity at level 1/11/20
+      Disruption
+        Melee Touch Attack
+        Field lasts 1/2 Wizard Level rounds
+        DC 15 + Twice Spell Level Concentration check to cast any spell, in addition to other checks
+        3 + Int Mod times / day
+      Counterspell Mastery
+        6th level +
+        Improved Counterspell as a bonus feat
+        May Counterspell as an immediate action
+          Spell used must be one level higher than the spell being countered
+          1 + 1 for each 4 levels beyond 6 / day
+    Scrollmaster
+      Scroll Blade
+      Scroll Shield

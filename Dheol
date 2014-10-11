@@ -38,7 +38,7 @@ Traits
     
 Skills
   Linguistics           +21 | 11 Ranks + 5 Int + 2 Trait + 3 Skill Focus
-  Craft (Calligraphy)   +16 | 11 Ranks + 5 Int 
+  Craft (Calligraphy)   +21 | 11 Ranks + 5 Int + 5 Racial
   Knowledge (Religion)  +16 | 11 Ranks + 5 Int 
   Knowledge (Arcana)    +16 | 11 Ranks + 5 Int 
   Knowledge (History)   +16 | 11 Ranks + 5 Int 
@@ -74,8 +74,6 @@ Feats
   Arcane Builder
     Reduce price of scroll scribing by 25% 
     +4 to Spellcraft to scribe a scroll
-  Heighten Spell
-    Can cast spells as a higher level version
   Skill Focus (Linguistics)
   Skill Focus (Spellcraft)
     
@@ -114,7 +112,7 @@ Special
     Focused Study
       Gain a bonus Skill Focus feat at 1, 8 and 16
     Heart of the Fields
-      Racial bonus equal to half character level to Profession (Scribe)
+      Racial bonus equal to half character level to Craft (Calligraphy)
       Once per day, can ignore one Exhaust or Fatigue
   Wizard
     Abjurer

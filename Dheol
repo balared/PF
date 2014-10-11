@@ -6,9 +6,9 @@ Cyphermage 5
 Str  9 (-1)
 Con 14 (+2)
 Dex 11 (+0)
-Int 22 (+6)
-Wis  8 (-1)
-Cha 10 (+0)
+Int 25 (+7)
+Wis 11 (+0)
+Cha 13 (+1)
 
 HD    6d6 + 5d6
 HP    77 (6 favored class levels)
@@ -37,17 +37,17 @@ Traits
     Use Int in place of Cha for Use Magical Device checks
     
 Skills
-  Linguistics           +21 | 11 Ranks + 5 Int + 2 Trait + 3 Skill Focus
-  Craft (Calligraphy)   +21 | 11 Ranks + 5 Int + 5 Racial
-  Knowledge (Religion)  +16 | 11 Ranks + 5 Int 
-  Knowledge (Arcana)    +16 | 11 Ranks + 5 Int 
-  Knowledge (History)   +16 | 11 Ranks + 5 Int 
-  Knowledge (Planes)    +16 | 11 Ranks + 5 Int 
-  Knowledge (Local)     +15 | 10 Ranks + 5 Int
-  Spellcraft            +19 | 11 Ranks + 5 Int + 3 Skill Focus
-  Use Magical Device    +16 | 11 Ranks + 5 Int
-  Sense Motive          -3  | 0 Ranks - 2 Trait - 1 Wis
-  Perception            -1  | 0 Ranks - 1 Wis
+  Linguistics           +22 | 11 Ranks + 6 Int + 2 Trait + 3 Skill Focus
+  Craft (Calligraphy)   +22 | 11 Ranks + 6 Int + 5 Racial
+  Knowledge (Religion)  +17 | 11 Ranks + 6 Int 
+  Knowledge (Arcana)    +17 | 11 Ranks + 6 Int 
+  Knowledge (History)   +17 | 11 Ranks + 6 Int 
+  Knowledge (Planes)    +17 | 11 Ranks + 6 Int 
+  Knowledge (Local)     +17 | 10 Ranks + 6 Int
+  Spellcraft            +20 | 11 Ranks + 6 Int + 3 Skill Focus
+  Use Magical Device    +17 | 11 Ranks + 6 Int
+  Sense Motive          -2  | 0 Ranks - 2 Trait
+  Perception            +0  | 0 Ranks
     -2 on sight-based
   
 Feats
@@ -106,6 +106,7 @@ Languages
   Necril
   Sylvan
   Protean
+  +1
 
 Special
   Human
@@ -149,6 +150,12 @@ Special
       Can find glyph/rune/ward/symbol based spell traps as if a rogue
       Can use Perception or Knowledge (Arcana) to find
       can use Disable Device or Spellcraft to disable
+  General
+    Permanent Age Resistance
+      Cast on himself by himself.
+      
+Notes
+  Ages considerably in an anti-magic field (Venerable)
 
 Gear
   46,937gp

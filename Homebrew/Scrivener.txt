@@ -30,11 +30,10 @@ Table: Scrivener
   | Level |  BAB   | Fort Save | Ref Save | Will Save |         Special         |
   +-------+--------+-----------+----------+-----------+-------------------------+
   |     1 | +0     | +0        | +0       | +2        | Spells                  |
-  |       |        |           |          |           | Cantrips and Orisons    |
+  |       |        |           |          |           | Ur-Scripts              |
   |       |        |           |          |           | Scribe Scroll           |
   |       |        |           |          |           | Practiced Scribing      |
   |       |        |           |          |           | Carbon Copy             |
-  |       |        |           |          |           | Ur-Scripts              |
   |     2 | +1     | +0        | +0       | +3        |                         |
   |     3 | +1     | +1        | +1       | +3        | Inscribe Rune           |
   |     4 | +2     | +1        | +1       | +4        | Master Scrollcraft 1    |
@@ -68,27 +67,27 @@ Class Features
     With the exception of certain cantrips and orisons, the Scrivener is unable to cast spells of their own accord. They must rely on scrolls, runes, tattoos and other devices for storing magical potential in order to practice their craft.
     However, with each level, their knowledge of deific motivations, arcane rituals and whimsical extraplanar entities increases. For the purposes of all matters relating to it, their Caster Level is equal to their class level. 
     In order to scribe spells, a Scrivener must have an Intelligence or Wisdom score equal to at least 10 + the spell level, for arcane or divine spells respectively. The DC for a saving throw against a Scrivener's spell is 10 + the spell level + the Scrivener's intelligence or wisdom modifier, similarly. 
-  	Should a spell occur on multiple lists, the Scrivener is able to scribe any version, depending on their caster level.
-	 
-  Cantrips and Orisons
-    The Scrivener gains access to two Wizard/Sorcerer cantrips and two Cleric orisons at level 1.
-    At each subsequent level, they gain one cantrip or one orison from either list.
-    These are the only spells a Scrivener is able to cast without extrapersonal assistance.
+    Should a spell occur on multiple lists, the Scrivener is able to scribe any version, depending on their caster level.
+		
+		Cantrips and Orisons
+			The Scrivener gains access to two Wizard/Sorcerer cantrips and two Cleric orisons at level 1.
+			At each subsequent level, they gain one cantrip or one orison from either list.
+			These are the only spells a Scrivener is able to cast without extrapersonal assistance.
+  
+  Ur-Scripts
+    The Scrivener starts play with a spellbook containing their initial cantrips and orisons, along with a number of arcane and divine spells equal to 3 + Intelligence/Wisdom modifier, respectively. Every time they level up, they can add three spells of any combination of arcane or divine sources, that they can cast, from the Wizard/Sorcerer or Cleric spell lists. This collection of prototypical scripts can contain spells from any spell list. Otherwise, it functions similarly to the Wizard spellbook.
+    Spells from a Scrivener's collection of Ur-Scripts cannot be copied to another textbook or to a scroll other than by a Scrivener.
     
   Scribe Scroll
     At level 1, Scriveners gain Scribe Scroll as a bonus feat.
     
   Practiced Scribing
-    In place of spell preperation time, the Scrivener spends an hour scribing. In this time, they are able to produce a number of magical items equal to their Scrivener class level. These items are equivalent to scrolls, but due to the shorthand methods and finely optimized inscriptions, they are only readable to the Scrivener. Non-Scriveners are unable to comprihend these scripts. However, other Scriveners may undertake a Linguistics or Use Magical Device check with a DC of 20 + twice the level of the spell on the scroll, in addition to any other Use Magical Device or Concentration checks needed to use the scroll.
+    In place of spell preperation time, the Scrivener spends an hour scribing. In this time, they are able to produce a number of magical items equal to 1 + half their Scrivener class level. These items are equivalent to scrolls, but due to the shorthand methods and finely optimized inscriptions, they are only readable to the Scrivener. Non-Scriveners are unable to comprihend these scripts. However, other Scriveners may undertake a Linguistics or Use Magical Device check with a DC of 20 + twice the level of the spell on the scroll, in addition to any other Use Magical Device or Concentration checks needed to use the scroll.
     These scripts are smaller and more compact than a normal scroll, fitting onto a sheet of paper roughly twice the size of a playing card.
     
   Carbon Copy
     Whenever a Scrivener scribes a scroll, they are able to create a carbon copy. This copy functions as another scroll of the same spell, though it is visually inverted; diagrams are inverted and the lettering is reversed. However, the process and materials to create this copy are volatile. Within 24 hours of the carbon copy's creation, the ink used will evaporate, leaving the sheets blank and reusable. If these copies are of scrolls created by the Practiced Scrivener feature, they are similarly difficult for others to use. The Use Magical Device DC increases to 25 + three times the level of the spell on the scroll due to the obfuscated nature of the copy.
-    
-  Ur-Scripts
-    The Scrivener starts play with a spellbook containing their initial cantrips and orisons, along with a number of arcane and divine spells equal to 3 + Intelligence/Wisdom modifier, respectively. Every time they level up, they can add three spells of any combination of arcane or divine sources, that they can cast, from the Wizard/Sorcerer or Cleric spell lists. This collection of prototypical scripts can contain spells from any spell list. Otherwise, it functions similarly to the Wizard spellbook.
-    Spells from a Scrivener's collection of Ur-Scripts cannot be copied to another textbook or to a scroll other than by a Scrivener.
-    
+  
   Inscribe Rune
     At level 3, Scriveners gain Inscribe Rune as a bonus feat.
     
@@ -133,3 +132,5 @@ Class Features
     
   Emergancy Procedure
     At 11th level, the Scrivener is able to encode their magic upon their Ur-Script collection itself. In an emergency, as a full-round action, they are able to tear one of these prototypical instruction sets from their binds. In doing so, they unleash a primordial version of the torn spell. This spell is Maximized, Empowered, Enlarged and Extended. However, the Scrivener has no control over the direction of this spell. It affects targets chosen at random among conscious creatures the spell could normally affect, friend or foe. Spells such as Dimension Door choose their direction randomly, and there is no guarentee that the travelling party will arrive safely. The Scrivener's caster level is used. This permanently removes the script from their collection, though they are able to scribe a new version into the collection at a later date, should they survive. 
+
+TODO:: Fix scroll/day progression on Practiced Scribing

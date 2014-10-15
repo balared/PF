@@ -1,0 +1,135 @@
+Among those who study the arcane arts, there are many varieties of casters; those who rote learn from musty tomes, those who make pacts for some fraction of the power of a greater being, those for whom magic is a natural, soul-deep proficiency. While their motivations vary, if there is one thing that all practitioners of these magical arts share, it's a drive for personal power. That is to say, all except the Scriveners. Those who devote themselves to the craft of scroll scribing in such a way remove themselves from such pursuits, forfeiting many of the traditional abilities of an arcane spellcaster in order to gain greater mastery in their craft.
+
+Role
+  Scriveners usually prefer more of a supporting role in a party. Their inability to cast most spells without relatively fragile material components hampers their ability to fight on the front lines. With their transparent perception of both arcane and divine sources, they have the potential to become an incredible source of magical potential, as long as they can protect their stocks. 
+  
+Alignment
+  Usually non-Chaotic
+
+Hit Dice: 
+  d6
+
+Starting Wealth: 
+  2d6 × 10 gp 
+    average 70 gp
+    In addition, each character begins play with an outfit worth 10 gp or less.
+
+Class Skills
+  Craft
+  Knowledge (All)
+  Linguistics
+  Profession
+  Spellcraft
+  Use Magical Device
+  
+Skill Ranks per Level:
+  2 + Int Modifier
+
+Table: Scrivener
+  +-------+--------+-----------+----------+-----------+-------------------------+
+  | Level |  BAB   | Fort Save | Ref Save | Will Save |         Special         |
+  +-------+--------+-----------+----------+-----------+-------------------------+
+  |     1 | +0     | +0        | +0       | +2        | Spells                  |
+  |       |        |           |          |           | Cantrips and Orisons    |
+  |       |        |           |          |           | Scribe Scroll           |
+  |       |        |           |          |           | Practiced Scribing      |
+  |       |        |           |          |           | Carbon Copy             |
+  |       |        |           |          |           | Ur-Scripts              |
+  |     2 | +1     | +0        | +0       | +3        |                         |
+  |     3 | +1     | +1        | +1       | +3        | Inscribe Rune           |
+  |     4 | +2     | +1        | +1       | +4        | Master Scrollcraft 1    |
+  |     5 | +2     | +1        | +1       | +4        | Mother Tongue           |
+  |       |        |           |          |           | Inscribe Magical Tattoo |
+  |     6 | +3     | +2        | +2       | +5        | Cypher Sense            |
+  |     7 | +3     | +2        | +2       | +5        | Runecrafting            |
+  |     8 | +4     | +2        | +2       | +6        | Master Scrollcraft 2    |
+  |     9 | +4     | +3        | +3       | +6        | Retroactive Metamagic 1 |
+  |    10 | +5     | +3        | +3       | +7        | Master Tongue           |
+  |    11 | +5     | +3        | +3       | +7        | Emergency Procedures    |
+  |    12 | +6/+1  | +4        | +4       | +8        | Master Scrollcraft 3    |
+  |    13 | +6/+1  | +4        | +4       | +8        |                         |
+  |    14 | +7/+2  | +4        | +4       | +9        | Retroactive Metamagic 2 |
+  |    15 | +7/+2  | +5        | +5       | +9        |                         |
+  |    16 | +8/+3  | +5        | +5       | +10       | Master Scrollcraft 4    |
+  |    17 | +8/+3  | +5        | +5       | +10       |                         |
+  |    18 | +9/+4  | +6        | +6       | +11       |                         |
+  |    19 | +9/+4  | +6        | +6       | +11       | Retroactive Metamagic 3 |
+  |    20 | +10/+5 | +6        | +6       | +12       | Master Scrollcraft 5    |
+  +-------+--------+-----------+----------+-----------+-------------------------+
+
+Class Features
+  Weapon and Armor Proficiencies
+    The Scrivener gains no armor or shield proficiencies.
+    The Scrivener gains class proficiencies in Quarterstaffs, Clubs, Light Crossbows and Heavy Crossbows
+    
+  Spells
+    The Scrivener gains access to spells in a different manner to that of normal spellcasters such as Wizards or Clerics.
+    Early in their magical training, Scriveners undertake a procedure by which their natural ability to channel arcane or divine powers through their body, in exchange for a nigh-eidetic memory for the rituals and procedures involved in scroll scribing and other methods of inscribing magical powers. This includes certain shortcuts, optimizations, and inexplicable, esoteric inscriptions that allow them to go above and beyond the standard scribblings of a wizard.
+    With the exception of certain cantrips and orisons, the Scrivener is unable to cast spells of their own accord. They must rely on scrolls, runes, tattoos and other devices for storing magical potential in order to practice their craft.
+    However, with each level, their knowledge of deific motivations, arcane rituals and whimsical extraplanar entities increases. For the purposes of all matters relating to it, their Caster Level is equal to their class level. 
+	  In order to scribe spells, a Scrivener must have an Intelligence or Wisdom score equal to at least 10 + the spell level, for arcane or divine spells respectively. The DC for a saving throw against a Scrivener's spell is 10 + the spell level + the Scrivener's intelligence or wisdom modifier, similarly. 
+  	Should a spell occur on multiple lists, the Scrivener is able to scribe any version, depending on their caster level.
+	
+  Cantrips and Orisons
+    The Scrivener gains access to two Wizard/Sorcerer cantrips and two Cleric orisons at level 1.
+    At each subsequent level, they gain one cantrip or one orison from either list.
+    These are the only spells a Scrivener is able to cast without extrapersonal assistance.
+    
+  Scribe Scroll
+    At level 1, Scriveners gain Scribe Scroll as a bonus feat.
+    
+  Practiced Scribing
+    In place of spell preperation time, the Scrivener spends an hour scribing. In this time, they are able to produce a number of magical items equal to their Scrivener class level. These items are equivalent to scrolls, but due to the shorthand methods and finely optimized inscriptions, they are only readable to the Scrivener. Non-Scriveners are unable to comprihend these scripts. However, other Scriveners may undertake a Linguistics or Use Magical Device check with a DC of 20 + twice the level of the spell on the scroll, in addition to any other Use Magical Device or Concentration checks needed to use the scroll.
+    These scripts are smaller and more compact than a normal scroll, fitting onto a sheet of paper roughly twice the size of a playing card.
+    
+  Carbon Copy
+    Whenever a Scrivener scribes a scroll, they are able to create a carbon copy. This copy functions as another scroll of the same spell, though it is visually inverted; diagrams are inverted and the lettering is reversed. However, the process and materials to create this copy are volatile. Within 24 hours of the carbon copy's creation, the ink used will evaporate, leaving the sheets blank and reusable. If these copies are of scrolls created by the Practiced Scrivener feature, they are similarly difficult for others to use. The Use Magical Device DC increases to 25 + three times the level of the spell on the scroll due to the obfuscated nature of the copy.
+    
+  Ur-Scripts
+    The Scrivener starts play with a spellbook containing their initial cantrips and orisons, along with a number of arcane and divine spells equal to 3 + Intelligence/Wisdom modifier, respectively. Every time they level up, they can add three spells of any combination of arcane or divine sources, that they can cast, from the Wizard/Sorcerer or Cleric spell lists. This collection of prototypical scripts can contain spells from any spell list. Otherwise, it functions similarly to the Wizard spellbook.
+    Spells from a Scrivener's collection of Ur-Scripts cannot be copied to another textbook or to a scroll other than by a Scrivener.
+    
+  Inscribe Rune
+    At level 3, Scriveners gain Inscribe Rune as a bonus feat.
+    
+  Master Scrollcraft
+    At level 4, the Scrivener's ability to scribe readable scrolls reaches a new level. The time taken and material cost required to scribe a normal scroll is halved.
+    At level 8, the time and cost is reduced to a third. At level 12, it is reduced to a quarter, at level 16, a fifth and at level 20, a sixth.
+    Scriveners are the front and foremost authority in scrollcrafting. This procedure is significantly more advanced than most other methods of reducing the cost, and thus, it doesn't stack with any other method of reducing cost or time for scrollcrafting.
+  
+  Mother Tongue
+    Scriveners understand language at a deeper level than most scholars. At 5th level, you gain a +5 Circumstance bonus to Linguistics checks to understand unknown or archaic languages. Additionally, the Scrivener can spend time with written materials of an unknown language in order to gain a rudimentary understanding of it. With a DC20 Linguistics Check, you are able to speak the language with enough proficiency that you can hold a conversation, though misunderstandings are possible.
+  
+  Inscribe Magical Tattoo
+    At 5th level, the Scrivener gains Inscribe Magical Tattoo as a bonus feat.
+ 
+  Cypher Sense
+    At 6th level, the Scrivener gains the ability to detect written magical traps or enchantments as though they were a Rogue. They can use Perception or Knowledge (Arcana) to notice such traps, and can use Disable Device or Spellcraft to disable these types of traps.
+ 
+  Runecrafting
+    At 7th level, the Scrivener is able to apply a rune to an unenchanted piece of equipment. This rune can apply one of the affects in the table below. The effect may be activated as a free action. The spell is cast on the bearer of the rune if applicable, or where the bearer intends if not. It is cast as if by the Scrivener, using his caster level, ability scores and other statistics.
+    
+    Table: Runecrafting Effects
+    
+    +--------+---------------+--------------------+
+    |  Slot  | Arcane Effect |   Divine Effect    |
+    +--------+---------------+--------------------+
+    | Head   | Detect Magic  | Enhanced Diplomacy |
+    | Chest  | Resistance    | Light              |
+    | Belt   | Detect Poison | Stabilize          |
+    | Gloves | Mage Hand     | Spark              |
+    | Feet   | Root          | Create Water       |
+    | Weapon | Acid Splash   | Bleed              |
+    +--------+---------------+--------------------+
+    
+  Retroactive Metamagic
+    At 9th level, the Scrivener is able to apply the metamagical effects to scrolls they cast retroactively. This is limited to affects that increase the spell level by 1, and can only be used once a day.
+    At 14th level, the spell level increase is increased to 2, and can be used twice a day. 
+    At 19th level, the spell increase is limited to 3, and can be used three times a day.
+    Any number of metamagic feats can be applied to a single scroll this way, as long as the spell level increase does not exceed the listed maximum.
+    
+  Master Tongue
+    At 10th level, the linguistic deductions of the Scrivener are almost unbound by mortal means. They are able to apply the Mother Tongue ability to secret languages as if they weren't secret.
+    
+  Emergancy Procedure
+    At 11th level, the Scrivener is able to encode their magic upon their Ur-Script collection itself. In an emergency, as a full-round action, they are able to tear one of these prototypical instruction sets from their binds. In doing so, they unleash a primordial version of the torn spell. This spell is Maximized, Empowered, Enlarged and Extended. However, the Scrivener has no control over the direction of this spell. It affects targets chosen at random among conscious creatures the spell could normally affect, friend or foe. Spells such as Dimension Door choose their direction randomly, and there is no guarentee that the travelling party will arrive safely. The Scrivener's caster level is used. This permanently removes the script from their collection, though they are able to scribe a new version into the collection at a later date, should they survive. 

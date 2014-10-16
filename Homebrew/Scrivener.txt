@@ -136,5 +136,3 @@ Class Features
     
   Emergancy Procedure
     At 11th level, the Scrivener is able to encode their magic upon their Ur-Script collection itself. In an emergency, as a full-round action, they are able to tear one of these prototypical instruction sets from their binds. In doing so, they unleash a primordial version of the torn spell. This spell is Maximized, Empowered, Enlarged and Extended. However, the Scrivener has no control over the direction of this spell. It affects targets chosen at random among conscious creatures the spell could normally affect, friend or foe. Spells such as Dimension Door choose their direction randomly, and there is no guarentee that the travelling party will arrive safely. The Scrivener's caster level is used. This permanently removes the script from their collection, though they are able to scribe a new version into the collection at a later date, should they survive. 
-
-TODO:: Fix scroll/day progression on Practiced Scribing

@@ -125,6 +125,8 @@ Class Features
     | Weapon | Acid Splash   | Bleed              |
     +--------+---------------+--------------------+
     
+  	This rune lasts 24 hours or until the Scrivener dismisses the effect, which can be done as a swift action.
+    
   Retroactive Metamagic
     At 9th level, the Scrivener is able to apply the metamagical effects to scrolls they cast retroactively. This is limited to affects that increase the spell level by 1, and can only be used once a day.
     At 14th level, the spell level increase is increased to 2, and can be used twice a day. 

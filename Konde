@@ -66,6 +66,7 @@ Effects enchanted
     Fists are Masterwork
   +5 Agile
     Body
+  Strong Jaw
 
 Speed
   Land  80
@@ -92,7 +93,7 @@ Special
     Flurry of Blows
       +9/+9/+4/+4/-1
     Unarmed Strike
-      2d8
+      4d8
     Improved AC
       + 3 + Wis Mod
     Movement Speed

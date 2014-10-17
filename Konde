@@ -1,0 +1,143 @@
+Konde, Twelfth Fist of Irori
+N Grippli
+Monk 11
+
+Str 10 (+0)
+Con 15 (+2)
+Dex 20 (+5)
+Int 12 (+1)
+Wis 18 (+4)
+Cha 12 (+1)
+
+BAB +8/+3
+MAB +9/+4
+RAB +13/+8
+
+AC    23  | 10 + 5 Dex + 4 Wis + 4 Class  
+Fort  +9  | +7 + 2 Con
+Ref   +12 | +7 + 5 Dex
+Will  +11 | +7 + 4 Wis
+
+HD  
+  11d8 + 22
+    8,5,6,1,8,6,4,8,6,5,4 + 22
+HP  81
+
+Skills
+  Acrobatics      +19 | 11 ranks + 3 Class + 5 Dex + 1 Trait
+  Climb           +14 | 11 ranks + 3 Class + 1 Str
+  Swim            +14 | 11 ranks + 3 Class + 1 Str
+  Escape Artist   +18 | 11 ranks + 3 Class + 5 Dex
+  Perception      +17 | 11 ranks + 3 Class + 4 Wis
+  
+Feats
+  Level
+    1:  Death from Above
+    3:  Mobility
+    6:  Spring Attack
+    9:  Weapon Finesse
+  Bonus:  
+    Class
+      Improved Unarmed Strike
+      Stunning Fist
+        Fort Save or Stun OR Fatigue OR Sicken
+    1   Scorpion Style
+    2   Dodge
+    6   Gorgon's Fist
+    10  Medusa's Wrath
+
+Traits
+  Heavy Hitter
+    +1 Trait bonus on Unarmed Damage Rolls
+  Reckless
+    +1 Trait to Acrobatics
+
+Equipment
+  Monk's Robe
+  Footwraps
+  Waterskin
+  Blanket
+  Quarterstaff
+  10gp
+  
+Effects enchanted
+  Masterwork Transformation
+    Fists are Masterwork
+  +5 Agile
+    Body
+
+Speed
+  Land  80
+  Climb 20
+  
+Languages
+  Common
+  Grippli
+  Elven
+  
+Special
+  Racial
+    Glider
+      Fall distances treated as half
+      Can steer equal to half distance fallen
+      Cannot be used if in heavy armor, under heavy load, or helpless
+    Camouflage
+      +4 racial bonus on Stealth checks in marshes and forested areas.
+    Weapon Familiarity
+      Proficient with Nets
+    Darkvision
+      Darkvision 60ft
+  Class
+    Flurry of Blows
+      +9/+9/+4/+4/-1
+    Unarmed Strike
+      2d8
+    Improved AC
+      + 3 + Wis Mod
+    Movement Speed
+      +40ft
+    Evasion
+      On a successful Reflex save to halve damage, take no damage instead
+    Improved Evasion
+      Take half damage on a failed Evasion save
+    Maneuver Training
+      Use Monk Level for CMB instead of BAB
+    Monk Vows
+      Vow of Celibacy
+        May not allow others to touch peacefully or pleasurably
+        May not touch others peacefully or pleasurably
+        +1 / 5 Levels
+      Vow of Poverty
+        Allowed 5 basic possessions + 1 expensive
+          Robe
+          Footwraps
+          Waterskin
+          Blanket
+          Quarterstaff
+          Hand wraps
+        Cannot carry more than ~10gp
+        Cannot carry more than 50gp for others
+        Cannot borrow more than 50gp from others
+        Allowed to use consumables donated by others
+        +1 / level
+    Ki Pool
+      22 Ki Points
+      As long as 1 Ki point is in the pool
+        Swift, spend 0 points
+          Ki Strike, unarmed strike is Magical, Lawful and Cold Iron
+        Swift, spend 1 points
+          One additional attack at max BAB in next Flurry of Blows OR
+          +20ft speed for 1 round OR
+          +4 Dodge to AC for 1 round OR
+          +20 to Acrobatics to jump for 1 round
+        Standard Action, spend 2 points
+          Heal Monk Level HP
+    Slow Fall
+      When falling next to a wall, fall distance reduced by 50ft
+    High Jump
+      + Monk Level to all Acrobatics checks to jump
+      Always counts as having a running start
+    Purity of Body
+      Immunity to all diseases, supernatural, magical or otherwise.
+    Diamond Body
+      Immunity to Poison

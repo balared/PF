@@ -1,0 +1,98 @@
+Nug
+Half-Ogre Fighter 11
+
+Str 22  (+6)
+Con 20  (+5)
+Dex 16  (+3)
+Int 8   (-1)
+Wis 10  (+0)
+Cha 14  (+2)
+
+BAB +11/+6/+1
+MAB +17/+12/+7
+RAB +14/+9/+4
+CMB +19 (+21 against 2+ sizes larger)
+CMD 31 (+33 against 2+ sizes larger)
+
+AC    15
+Fort  +12
+Ref   +6
+Will  +3
+HD    11d10 + 55
+HP    10,10,1,9,10,8,9,6,9,4,7 + 55 + 11 Feat + 11 Favored
+      160
+
+Speed
+  Land  30
+
+Traits
+  Superior Clutch
+    +1 to Damage when using weapons intended for larger creatures
+  Bred for War
+    +1 Intimidate
+    +1 CMB
+  Equality for All
+    +2 to CMB and CMD when facing opponents 2 or more sizes larger
+  Dependant
+    Shaken for 1 hour when a Diplomacy check fails
+
+Skills
+  Climb       +20 | 11 Ranks + 3 Class + 6 Str
+  Swim        +20 | 11 Ranks + 3 Class + 6 Str
+  Intimidate  +3  |  0 Ranks + 1 Trait + 2 Cha
+
+Feats
+  Exotic Weapon Proficiency (Chain-Kama)
+  Cornugon Shield
+    +1 Shield to AC when weilding a chain
+  Toughness
+    +HD Hit Points
+  Combat Reflexes
+    Make a number of AoOs equal to Dex Mod each round
+    Can make them flat footed
+  Bodyguard
+    When an adjacent ally is attacked, can use an AoO to Aid Another to increase AC as an immediate action
+  In Harm's Way
+    When using Aid Another to increase AC, can intercept and take that attack instead.
+    Creature cannot benefit from this more than once per attack
+  Stand Still
+    When an opponent provokes AoO moving through marked territory, make Combat Maneuver check instead of attack
+    If successful, they stop and can't move for the rest of their turn
+  Weapon Focus (Chain-Kama)
+    +1 to attack with Chain-Kama
+  Weapon Specialization (Chain-Kama)
+    +2 to damage with Chain-Kama
+  Greater Weapon Focus (Chain-Kama)
+    Additional +1 to Attack with Chain-Kama
+  Two-Weapon Fighting
+    Penalty with One-Hand/Light reduced to -2/-2
+  Two-Weapon Defense
+    +1 to AC when dual-weilding/double-weilding
+  Pin Down
+    When an opponent takes a 5ft step or Withdraw, they provoke AoO
+    No damage, but prevent that move action
+  
+Languages
+  Common
+  Giant
+  
+Special
+  Racial
+    Big Boned (**)
+      Can weild weapons of one size larger without incuring penalty
+    Ogre Blood
+      Counts as both a Human and an Ogre
+  Class
+    Bravery
+      +3 to Will against Fear
+    Weapon Mastery
+      +X Attack, Damage, CMD, CMB with weapon
+      +2 Double Weapon
+      +1 Flails
+    Armor Mastery
+      +3 Max Dex Bonus in armor
+      -3 ACP in armor
+      Can move at full speed in Medium or Heavy armor
+
+Equipment
+  86

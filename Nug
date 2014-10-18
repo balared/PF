@@ -15,9 +15,9 @@ CMB +19 (+21 against 2+ sizes larger)
 CMD 31 (+33 against 2+ sizes larger)
 
 AC    26
-Fort  +12
-Ref   +6
-Will  +3
+Fort  +15
+Ref   +9
+Will  +6
 HD    11d10 + 55
 HP    10,10,1,9,10,8,9,6,9,4,7 + 55 + 11 Feat + 11 Favored
       160
@@ -42,7 +42,7 @@ Skills
   Intimidate  +3  |  0 Ranks + 1 Trait + 2 Cha
 
 Feats
-  Exotic Weapon Proficiency (Chain-Kama)
+  Exotic Weapon Proficiency (Kusarigama)
   Cornugon Shield
     +1 Shield to AC when weilding a chain
   Toughness
@@ -58,19 +58,18 @@ Feats
   Stand Still
     When an opponent provokes AoO moving through marked territory, make Combat Maneuver check instead of attack
     If successful, they stop and can't move for the rest of their turn
-  Weapon Focus (Chain-Kama)
-    +1 to attack with Chain-Kama
-  Weapon Specialization (Chain-Kama)
-    +2 to damage with Chain-Kama
-  Greater Weapon Focus (Chain-Kama)
-    Additional +1 to Attack with Chain-Kama
+  Weapon Focus (Kusarigama)
+    +1 to attack with Kusarigama
+  Weapon Specialization (Kusarigama)
+    +2 to damage with Kusarigama
+  Greater Weapon Focus (Kusarigama)
+    Additional +1 to Attack with Kusarigama
   Two-Weapon Fighting
     Penalty with One-Hand/Light reduced to -2/-2
   Two-Weapon Defense
     +1 to AC when dual-weilding/double-weilding
-  Pin Down
-    When an opponent takes a 5ft step or Withdraw, they provoke AoO
-    No damage, but prevent that move action
+  Near and Far
+    Threaten adjacent squares with reach weapons
   
 Languages
   Common
@@ -102,5 +101,32 @@ Equipment
     35% ASFC
     DR 3/-
     DR 5/Magic
-    16 500
-  82000
+    41 500
+  Large Adamantine/Silversheen Kusarigama
+    1d4/1d8 x2
+    Double, Monk, Reach to 20, Trip, Grapple
+    Blade ignores 20pt hardness
+    Weight counts as silver
+    +1 Attack
+    4362
+  Muleback Cords
+    Strength is 8 higher for carrying capacity only
+    1000
+  Heavyload Bent
+    Permanent Ant Haul (x3 Carrying Capacity
+    2000
+  Handy Haversack
+    2000
+  Bag of Holding IV
+    10000
+  200ft Spider Silk Rope
+    400
+  Cloak of Resistance +3
+    +3 to Fort/Ref/Will saves
+    9000
+  Crowbar
+    Crowbar
+  10 Cure Serious Wounds potions
+    3d8+8 HP
+    7500
+  4 337

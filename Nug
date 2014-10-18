@@ -14,7 +14,7 @@ RAB +14/+9/+4
 CMB +19 (+21 against 2+ sizes larger)
 CMD 31 (+33 against 2+ sizes larger)
 
-AC    15
+AC    26
 Fort  +12
 Ref   +6
 Will  +3
@@ -95,4 +95,12 @@ Special
       Can move at full speed in Medium or Heavy armor
 
 Equipment
-  86
+  +2 Adamantine Full-Plate of Invulnerability
+    +11 AC
+    +4 Max Dex
+    -1 ACP
+    35% ASFC
+    DR 3/-
+    DR 5/Magic
+    16 500
+  82000

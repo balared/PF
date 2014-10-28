@@ -1,0 +1,98 @@
+Gideon
+Halfling
+Artificer 11
+
+Str 8 (-1)
+Con 13 (+1)
+Dex 12 (+1)
+Int 20 (+4)
+Wis 10 (+0)
+Cha 12 (+1)
+
+AC    10 + 1 Dex + 1 Size
+Fort  +7  | +7 + 1 Con + 1 Racial
+Ref   +3  | +3 - 1 Dex + 1 Racial
+Will  +8  | +7 + 0 Wis + 1 Racial
+
+BAB +8/+3
+MAB +8  | +8 - 1 Str + 1 Size
+RAB +10 | +8 + 1 Dex + 1 Size
+CMB +6  | +8 - 1 Str - 1 Size
+CMD 17  | 10 + 8 BAB - 1 Str + 1 Dex - 1 Size
+
+Traits
+  Hedge Magician
+    GP Price for magical items reduced by 5%
+
+Skills
+  Stealth     +5  | 0 Ranks + 1 Dex + 4 Size
+  Spellcraft  +10 | 0 Ranks + 4 Int + 6 Skill Focus
+  Craft       +12 | 0 Ranks + 4 Int + 2 Racial + 6 Class
+
+Feats
+  Scribe Scroll
+  Brew Potion
+  Craft Wonderous Item
+  Craft Magical Arms and Armor
+  Craft Wand
+  Craft Rod
+  Magical Aptitude
+  Skill Focus (Spellcraft)
+  Frugal Crafting
+  Craft Anywhere
+  Cooperative Crafting
+  6
+  8
+  10
+
+Weird Science
+  1 4
+  2 3
+  3 3
+  4 1
+
+Speed
+  Land  20
+  
+Languages
+  Common
+  Halfling
+  Elven
+  Dwarvern
+  Gnomish
+  Goblin
+  
+Special
+  Racial
+    Fearless
+      +2 Racial vs Fear
+      Stacks with Halfling Luck
+    Halfling Luck
+      +1 Racial on all saves
+    Weapon Familiarity
+      Any weapon with "Halfling" in the name is martial
+    Ingratiated
+      +2 Racial to Perform (Comedy), all Craft and all Profession
+      Perform (Comedy) is always a class skill
+  Class
+    Elbow Grease
+      +6 to Craft Checks
+    Jack of All Trades
+      All skills can be used untrained
+    Weird Science
+      Can imbue an item with a number of spells of level 4 or less
+      Takes 4 hours per spell level
+      Can be used a number of times per day equal to 1 + 1/2 Level at time of creation (6 @ 11)
+      All spells cast simultaneously, at caster level equal to that at time of creation
+    Item Creation
+      Can create actual magical items as if they were a caster of Artificer Level + 2 
+    Bonus Item Creation Feats
+      Gains all Item Creation feats as bonus feats
+      Gains a bonus metamagic feat at levels 4, 8, 12, 16 and 20
+    Salvage
+      Can spend a day with an item to salvage it for its value in parts towards another item
+    Metamagic Science
+      Can retroactivally apply metamagic to a spell trigger item with charges, using up additional charges per level increased
+    Improved Metamagic Science
+      Can retroactivally apply metamagic to a spell completion item, with a DC of 20 + (New Spell Level * 3) (yes this is a high number)
+      3 + Int Mod / day

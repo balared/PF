@@ -5,9 +5,9 @@ Artificer 11
 Str 8 (-1)
 Con 13 (+1)
 Dex 12 (+1)
-Int 20 (+4)
-Wis 10 (+0)
-Cha 12 (+1)
+Int 29 (+9)
+Wis 13 (+1)
+Cha 15 (+2)
 
 AC    10 + 1 Dex + 1 Size
 Fort  +7  | +7 + 1 Con + 1 Racial
@@ -27,16 +27,21 @@ Traits
     Use Int instead of Cha for UMD
 
 Skills
-  Craft (Weapon)      +28 | 11 Ranks + 4 Int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat
-  Craft (Armor)       +28 | 11 Ranks + 4 Int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat
-  Craft (Bow)         +28 | 11 Ranks + 4 Int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat
-  Craft (Wood)        +28 | 11 Ranks + 4 Int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat
-  Craft (Jewels)      +28 | 11 Ranks + 4 Int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat
-  Craft (Blacksmith)  +28 | 11 Ranks + 4 Int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat
-  Craft (Whitesmith)  +28 | 11 Ranks + 4 Int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat
-    +14 and Fortune to 7 Craft Checks per day
-  Use Magical Device  +24 | 11 Ranks + 4 Int + 6 Skill Focus + 3 Class Skill
-  Spellcraft          +24 | 11 Ranks + 4 Int + 6 Skill Focus + 3 Class Skills
+  Craft (Weapon)      +45 | 11 ranks + 9 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
+  Craft (Armor)       +45 | 11 ranks + 9 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
+  Craft (Bow)         +45 | 11 ranks + 9 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
+  Craft (Wood)        +45 | 11 ranks + 9 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
+  Craft (Jewels)      +45 | 11 ranks + 9 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
+  Craft (Blacksmith)  +45 | 11 ranks + 9 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
+  Craft (Whitesmith)  +45 | 11 ranks + 9 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
+  Craft (Mechanical)  +45 | 11 ranks + 9 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
+  Craft (Siege)       +45 | 11 ranks + 9 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
+  Craft (Traps)       +45 | 11 ranks + 9 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
+  Craft (Alchemy)     +45 | 11 ranks + 9 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
+    +12 and Fortune to 7 Craft Checks per day
+  Perception          +15 | 11 ranks + 1 Wis + 3 Class Skill
+  Use Magical Device  +26 | 11 ranks + 9 int + 6 Skill Focus + 3 Class Skill
+  Spellcraft          +26 | 11 ranks + 9 int + 6 Skill Focus + 3 Class Skill
   Stealth             +5  | 0 Ranks + 1 Dex + 4 Size
 
 Feats
@@ -53,7 +58,7 @@ Feats
   Cooperative Crafting
   Skill Focus (Use Magical Device)
   Craftsman
-  Empower Spell
+  Magical Artisan
 
 Weird Science
   1 4
@@ -80,15 +85,41 @@ Equipment
       Cure Serious Wounds   (3)
       Cure Critical Wounds  (4)
     Cure 10d8 + 37 
-  Crafting Tools
+  Gideon's Crafting Tools
     Functions as a Masterwork Crafting Station for all craft checks
+    +10 Competance Bonus
     Casts simultaneously as a Standard Action 7/day
       Crafter's Fortune   (1)
       Bestow Insight      (2)
       Guidance            (0)
       Fox's Cunning       (2)
-    +14 to next Craft check, can roll 2 and take best
-  
+    +12 to next Craft check, can roll 2 and take best
+    Worth 7750gp
+  +6 Headband of Vast Intelligence
+    +6 to Int
+    Worth 36000gp
+  Amulet of Age Resistance
+    Ignore all age penalties
+    Worth 91000gp
+  3 Wands of Magic Missile
+    50 Charges
+    Worth 3 x 6750gp
+  1 Ring of Sustenance
+    Doesn't need to drink, eat or sleep more than 2 hours
+    Worth 2500gp
+  Bag of Holding IV
+    Holds up to 250 cubic feet or 1500lb
+    Worth 10000gp
+  Bottle of Air
+    Constantly replenishes air
+    Worth 7250gp
+  Decanter of Endless Water
+    Worth 9000gp
+  Folding Boat
+    Worth 7200gp
+  8 Immovable Rods
+    Worth 8 x 5000gp
+  37,850
 
 Speed
   Land  20
@@ -135,3 +166,8 @@ Special
     Improved Metamagic Science
       Can retroactivally apply metamagic to a spell completion item, with a DC of 20 + (New Spell Level * 3) (yes this is a high number)
       3 + Int Mod / day
+  Notes
+    Crafting multiplier for Magical Goods is
+      0.2375
+    Crafting Multiplier for Mundane Goods is 
+      0.2375

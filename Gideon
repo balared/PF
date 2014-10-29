@@ -23,11 +23,21 @@ CMD 17  | 10 + 8 BAB - 1 Str + 1 Dex - 1 Size
 Traits
   Hedge Magician
     GP Price for magical items reduced by 5%
+  Pragmatic Activator
+    Use Int instead of Cha for UMD
 
 Skills
-  Stealth     +5  | 0 Ranks + 1 Dex + 4 Size
-  Spellcraft  +10 | 0 Ranks + 4 Int + 6 Skill Focus
-  Craft       +12 | 0 Ranks + 4 Int + 2 Racial + 6 Class
+  Craft (Weapon)      +28 | 11 Ranks + 4 Int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat
+  Craft (Armor)       +28 | 11 Ranks + 4 Int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat
+  Craft (Bow)         +28 | 11 Ranks + 4 Int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat
+  Craft (Wood)        +28 | 11 Ranks + 4 Int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat
+  Craft (Jewels)      +28 | 11 Ranks + 4 Int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat
+  Craft (Blacksmith)  +28 | 11 Ranks + 4 Int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat
+  Craft (Whitesmith)  +28 | 11 Ranks + 4 Int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat
+    +14 and Fortune to 7 Craft Checks per day
+  Use Magical Device  +24 | 11 Ranks + 4 Int + 6 Skill Focus + 3 Class Skill
+  Spellcraft          +24 | 11 Ranks + 4 Int + 6 Skill Focus + 3 Class Skills
+  Stealth             +5  | 0 Ranks + 1 Dex + 4 Size
 
 Feats
   Scribe Scroll
@@ -41,15 +51,44 @@ Feats
   Frugal Crafting
   Craft Anywhere
   Cooperative Crafting
-  6
-  8
-  10
+  Skill Focus (Use Magical Device)
+  Craftsman
+  Empower Spell
 
 Weird Science
   1 4
   2 3
   3 3
   4 1
+  
+Equipment
+  Panic Button
+    Cast simultaneously as a Standard Action 7/day
+      Mage Armor    (1)
+        11 Hours
+      Shield        (1)
+        11 Minutes
+      Heroism       (3)
+        110 Minutes
+      Fly           (3)
+        11 Minutes
+      +8 to AC, +2 Attack, Save and Skill, 60ft Good Flight Speed
+  Oh Shit Button
+    Cast simultaneously as a Standard Action 7/day
+      Cure Light Wounds     (1)
+      Cure Moderate Wounds  (2)
+      Cure Serious Wounds   (3)
+      Cure Critical Wounds  (4)
+    Cure 10d8 + 37 
+  Crafting Tools
+    Functions as a Masterwork Crafting Station for all craft checks
+    Casts simultaneously as a Standard Action 7/day
+      Crafter's Fortune   (1)
+      Bestow Insight      (2)
+      Guidance            (0)
+      Fox's Cunning       (2)
+    +14 to next Craft check, can roll 2 and take best
+  
 
 Speed
   Land  20
@@ -82,7 +121,7 @@ Special
     Weird Science
       Can imbue an item with a number of spells of level 4 or less
       Takes 4 hours per spell level
-      Can be used a number of times per day equal to 1 + 1/2 Level at time of creation (6 @ 11)
+      Can be used a number of times per day equal to 1 + 1/2 Level at time of creation (7 @ 11)
       All spells cast simultaneously, at caster level equal to that at time of creation
     Item Creation
       Can create actual magical items as if they were a caster of Artificer Level + 2 

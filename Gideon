@@ -5,9 +5,9 @@ Artificer 11
 Str 8 (-1)
 Con 13 (+1)
 Dex 12 (+1)
-Int 29 (+9)
-Wis 13 (+1)
-Cha 15 (+2)
+Int 25 (+7)
+Wis 10 (+0)
+Cha 12 (+1)
 
 AC    10 + 1 Dex + 1 Size
 Fort  +7  | +7 + 1 Con + 1 Racial
@@ -27,21 +27,21 @@ Traits
     Use Int instead of Cha for UMD
 
 Skills
-  Craft (Weapon)      +45 | 11 ranks + 9 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
-  Craft (Armor)       +45 | 11 ranks + 9 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
-  Craft (Bow)         +45 | 11 ranks + 9 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
-  Craft (Wood)        +45 | 11 ranks + 9 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
-  Craft (Jewels)      +45 | 11 ranks + 9 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
-  Craft (Blacksmith)  +45 | 11 ranks + 9 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
-  Craft (Whitesmith)  +45 | 11 ranks + 9 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
-  Craft (Mechanical)  +45 | 11 ranks + 9 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
-  Craft (Siege)       +45 | 11 ranks + 9 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
-  Craft (Traps)       +45 | 11 ranks + 9 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
-  Craft (Alchemy)     +45 | 11 ranks + 9 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
+  Craft (Weapon)      +43 | 11 ranks + 7 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
+  Craft (Armor)       +43 | 11 ranks + 7 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
+  Craft (Bow)         +43 | 11 ranks + 7 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
+  Craft (Wood)        +43 | 11 ranks + 7 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
+  Craft (Jewels)      +43 | 11 ranks + 7 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
+  Craft (Blacksmith)  +43 | 11 ranks + 7 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
+  Craft (Whitesmith)  +43 | 11 ranks + 7 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
+  Craft (Mechanical)  +43 | 11 ranks + 7 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
+  Craft (Siege)       +43 | 11 ranks + 7 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
+  Craft (Traps)       +43 | 11 ranks + 7 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
+  Craft (Alchemy)     +43 | 11 ranks + 7 int + 2 Racial + 6 Class + 3 Class Skill + 2 Feat + 10 Competance + 2 Situational
     +12 and Fortune to 7 Craft Checks per day
   Perception          +15 | 11 ranks + 1 Wis + 3 Class Skill
-  Use Magical Device  +26 | 11 ranks + 9 int + 6 Skill Focus + 3 Class Skill
-  Spellcraft          +26 | 11 ranks + 9 int + 6 Skill Focus + 3 Class Skill
+  Use Magical Device  +23 | 11 ranks + 7 int + 6 Skill Focus + 3 Class Skill
+  Spellcraft          +23 | 11 ranks + 7 int + 6 Skill Focus + 3 Class Skill
   Stealth             +5  | 0 Ranks + 1 Dex + 4 Size
 
 Feats
@@ -100,10 +100,6 @@ Equipment
     +6 to Int
     Worth 36000gp
     Paid 8550
-  Amulet of Age Resistance
-    Ignore all age penalties
-    Worth 91000gp
-    Paid 21612.5
   3 Wands of Magic Missile
     50 Charges
     Worth 3 x 6750gp
@@ -129,7 +125,11 @@ Equipment
   8 Immovable Rods
     Worth 8 x 5000gp
     Paid 8 x 1187.5 (9500)
-  27149.375
+  Goggles of night
+    60ft Darkvision
+    Worth 12000
+    Paid 2850
+  45911.875
 
 Speed
   Land  20

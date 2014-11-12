@@ -1,0 +1,131 @@
+Gideon
+Forgeborn
+Artificer 11
+
+Str 8   (-1)
+Con 16  (+3)
+Dex 10  (+0)
+Int 30  (+10)
+Wis 8   (-1)
+Cha 10  (+0)
+
+AC      
+Fort    
+Ref     
+Will
+
+BAB 
+MAB 
+RAB 
+CMB 
+CMD 
+
+Traits
+    Hedge Magician
+        GP Price for magical items reduced by 5%
+    Pragmatic Activator
+        Use Int instead of Cha for UMD
+    
+Skills
+	Craft (Weapon)          +34 |   11 Ranks + 3 Class + 10 Int + 2 Feat + 2 Racial + 6 Class
+	Craft (Armor)           +34 |   11 Ranks + 3 Class + 10 Int + 2 Feat + 2 Racial + 6 Class
+	Craft (Bow)             +34 |   11 Ranks + 3 Class + 10 Int + 2 Feat + 2 Racial + 6 Class
+	Craft (Wood)            +34 |   11 Ranks + 3 Class + 10 Int + 2 Feat + 2 Racial + 6 Class
+	Craft (Jewels)          +34 |   11 Ranks + 3 Class + 10 Int + 2 Feat + 2 Racial + 6 Class
+	Craft (Blacksmith)      +34 |   11 Ranks + 3 Class + 10 Int + 2 Feat + 2 Racial + 6 Class
+	Craft (Whitesmith)      +34 |   11 Ranks + 3 Class + 10 Int + 2 Feat + 2 Racial + 6 Class
+	Craft (Mechanical)      +34 |   11 Ranks + 3 Class + 10 Int + 2 Feat + 2 Racial + 6 Class
+    Craft (Siege)           +34 |   11 Ranks + 3 Class + 10 Int + 2 Feat + 2 Racial + 6 Class
+	Craft (Traps)           +34 |   11 Ranks + 3 Class + 10 Int + 2 Feat + 2 Racial + 6 Class
+	Craft (Alchemy)         +34 |   11 Ranks + 3 Class + 10 Int + 2 Feat + 2 Racial + 6 Class
+	Perception              +13 |   11 Ranks + 3 Class - 1 Wis
+	UMD                     +34 |   11 Ranks + 3 Class + 10 Int + 10 Feat
+	Spellcraft              +34 |   11 Ranks + 3 Class + 10 Int + 10 Feat
+	Linguistics             +28 |   11 Ranks + 3 Class + 10 Int + 4 Racial
+	Knowledge (Engineering) +24 |   11 Ranks + 3 Class + 10 Int
+
+Feats
+    Alchemist Bonus Creation
+        Scribe Scroll
+        Brew Potion
+        Craft Wonderous Item
+        Craft Magical Arms and Armor
+        Craft Wand
+        Craft Rod
+    Alchemist Bonus
+        Magical Aptitude
+            +4 bonus to Spellcraft and UMD
+        Skill Focus (UMD)
+            +6 bonus to UMD
+    Racial Bonus
+        Skill Focus (Spellcraft)
+            +6 bonus to Spellcraft
+    Levels
+        Frugal Crafting
+            Creating magical items requires 1/3 of price
+            Creating non-magical items requires 1/4 of price
+        Craft Anywhere
+            Can do 8 hours a day of crafting anywhere, even while adventuring
+        Cooperative Crafting
+            Can give a +2 Circumstance to someone else's craft check, and doubles progress for the day
+        Craftsman
+            +2 bonus to all Craft checks
+        Magical Artisan
+            Creating magical item cost reduced by 25%
+        Craft Construct
+            Can create constructs
+    
+Weird Science
+  1 4
+  2 3
+  3 3
+  4 1
+  
+Equipment
+  +6 Headband of Vast Intelligence
+    +6 to Int
+    Worth 36000gp
+    Paid 8550
+
+Special
+    Racial
+        Nutured Nature
+            +2 Racial to all Craft checks
+        Forceful Education
+            +1 Skill Points per level
+        Early Specialization
+            Extra Feat
+        Halls of a Thousand Tongue-Shards
+            +4 Racial to Linguistics
+            +1 Racial to Bluff and Diplomacy
+            Learn 2 extra additional languages per point in Linguistics
+        Rapid Assessment
+            +2 Racial to Appraising worth of non-magical goods
+        Mend and Make Do
+            +1 Racial to Disable Device and Knowledge (Engineering)
+            +2 Racial to Appraise and Perception on hidden objects, IDing pots by taste, assessing food quality, etc
+            Automatically proficient in all weapons made by themselves
+        Darkforging
+            Darkvision 120ft
+    Class
+        Elbow Grease
+            +6 to Craft Checks
+        Jack of All Trades
+            All skills can be used untrained
+        Weird Science
+            Can imbue an item with a number of spells of level 4 or less
+            Takes 4 hours per spell level
+         Can be used a number of times per day equal to 1 + 1/2 Level at time of creation (7 @ 11)
+            All spells cast simultaneously, at caster level equal to that at time of creation
+        Item Creation
+            Can create actual magical items as if they were a caster of Artificer Level + 2 
+        Bonus Item Creation Feats
+            Gains all Item Creation feats as bonus feats
+            Gains a bonus metamagic feat at levels 4, 8, 12, 16 and 20
+        Salvage
+            Can spend a day with an item to salvage it for its value in parts towards another item
+        Metamagic Science
+            Can retroactivally apply metamagic to a spell trigger item with charges, using up additional charges per level increased
+        Improved Metamagic Science
+            Can retroactivally apply metamagic to a spell completion item, with a DC of 20 + (New Spell Level * 3) (yes this is a high number)
+            3 + Int Mod / day

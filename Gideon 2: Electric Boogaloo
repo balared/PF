@@ -135,13 +135,25 @@ Equipment
 	Folding Boat
 		Worth 7200gp
 		Paid 1710
-	8 Immovable Rods ###
+	8 Immovable Rods
 		Worth 8 x 5000gp
 		Paid 8 x 1187.5 (9500)
 	3 Clockword Steeds
+		Worth 3 x 33500 (100500)
+		Paid 3 x 7956.25 (23868.75)
 	2 Clockwork Soldiers
-	1 Intelligent Clockwork Servant (+1 HD, Cooperative Crafting)
-	28,428.775 in goods
+		Worth 2 x 37000 (74000)
+		Paid 2 x 8787.5 (17575)
+	1 Intelligent Clockwork Servant (+1 HD) ###
+		Skills
+			Craft (Clockwork)
+			Disable Device
+		Feats
+			Cooperative Crafting
+			XXX
+		Worth 20250
+		Paid 4809.375
+	74,681.9 in goods
 	XXXXXXXXXX in cash
 	82,000 total 
 
@@ -177,6 +189,7 @@ Special
             All spells cast simultaneously, at caster level equal to that at time of creation
         Item Creation
             Can create actual magical items as if they were a caster of Artificer Level + 2 
+            DC 20 + Spell Level Spellcraft check to emulate missing spells known
         Bonus Item Creation Feats
             Gains all Item Creation feats as bonus feats
             Gains a bonus metamagic feat at levels 4, 8, 12, 16 and 20

@@ -5,7 +5,7 @@ Artificer 11
 Str 8   (-1)
 Con 16  (+3)
 Dex 10  (+0)
-Int 30  (+10)
+Int 32  (+11)
 Wis 8   (-1)
 Cha 10  (+0)
 
@@ -35,14 +35,16 @@ Skills
 	Craft (Blacksmith)      +46 |   11 Ranks + 3 Class + 10 Int + 2 Feat + 2 Racial + 6 Class + 2 Circumstance + 10 Competence
 	Craft (Whitesmith)      +46 |   11 Ranks + 3 Class + 10 Int + 2 Feat + 2 Racial + 6 Class + 2 Circumstance + 10 Competence
 	Craft (Mechanical)      +46 |   11 Ranks + 3 Class + 10 Int + 2 Feat + 2 Racial + 6 Class + 2 Circumstance + 10 Competence
-    Craft (Siege)           +46 |   11 Ranks + 3 Class + 10 Int + 2 Feat + 2 Racial + 6 Class + 2 Circumstance + 10 Competence
-	Craft (Traps)           +46 |   11 Ranks + 3 Class + 10 Int + 2 Feat + 2 Racial + 6 Class + 2 Circumstance + 10 Competence
+	Craft (Siege)           +46 |   11 Ranks + 3 Class + 10 Int + 2 Feat + 2 Racial + 6 Class + 2 Circumstance + 10 Competence
+	Craft (Clockwork)       +46 |   11 Ranks + 3 Class + 10 Int + 2 Feat + 2 Racial + 6 Class + 2 Circumstance + 10 Competence
 	Craft (Alchemy)         +46 |   11 Ranks + 3 Class + 10 Int + 2 Feat + 2 Racial + 6 Class + 2 Circumstance + 10 Competence
+	Craft (Ships)		+46 |	11 Ranks + 3 Class + 10 Int + 2 Feat + 2 Racial + 6 Class + 2 Circumstancial + 10 Competence
+		+12 + Fortune, 7/day
 	Perception              +13 |   11 Ranks + 3 Class - 1 Wis
 	UMD                     +34 |   11 Ranks + 3 Class + 10 Int + 10 Feat
 	Spellcraft              +34 |   11 Ranks + 3 Class + 10 Int + 10 Feat
 	Linguistics             +28 |   11 Ranks + 3 Class + 10 Int + 4 Racial
-	Knowledge (Engineering) +24 |   11 Ranks + 3 Class + 10 Int
+	Knowledge (Engineering) +26 |   9 Ranks + 3 Class + 10 Int
 
 Feats
     Alchemist Bonus Creation
@@ -133,9 +135,11 @@ Equipment
 	Folding Boat
 		Worth 7200gp
 		Paid 1710
-	8 Immovable Rods
+	8 Immovable Rods ###
 		Worth 8 x 5000gp
 		Paid 8 x 1187.5 (9500)
+	28,428.775 in goods
+	XXXXXXXXXX in cash
 	82,000 total 
 
 Special

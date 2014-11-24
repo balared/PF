@@ -9,16 +9,19 @@ Int 32  (+11)
 Wis 8   (-1)
 Cha 10  (+0)
 
-AC      
-Fort    
-Ref     
-Will
+HD	11d6 + 44
+	3,5,5,6,2,6,5,6,6,3+0 = 47
+HP	91
+AC      10	|	10 + 0 Dex
+Fort    +15	|	+7 + 3 Con + 5 Resistance
+Ref     +8	|	+3 + 0 Dex + 5 Resistance
+Will	+11	|	+7 - 1 Wis + 5 Resistance
 
-BAB 
-MAB 
-RAB 
-CMB 
-CMD 
+BAB +8/+3
+MAB +7/+2
+RAB +8/+3
+CMB +5
+CMD +13
 
 Traits
     Hedge Magician
@@ -153,7 +156,11 @@ Equipment
 			XXX
 		Worth 20250
 		Paid 4809.375
-	74,681.9 in goods
+	+5 Cloak of Resistance
+		+5 to all Saves
+		Worth 25000
+		Paid 5937.5
+	80619.4 in goods
 	XXXXXXXXXX in cash
 	82,000 total 
 
